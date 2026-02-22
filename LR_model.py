@@ -1,6 +1,3 @@
-# lr_model.py
-# Logistic Regression with Full EDA
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns

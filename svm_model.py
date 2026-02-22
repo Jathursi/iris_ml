@@ -1,4 +1,3 @@
-# svm_model.py
 import pandas as pd
 
 from sklearn.preprocessing import StandardScaler, LabelEncoder, label_binarize
